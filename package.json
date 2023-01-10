@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/viewpager": "^5.0.11",
     "react": "18.1.0",
-    "react-native": "0.70.6"
+    "react-native": "0.70.6",
+    "react-native-qrcode-svg": "^6.1.2",
+    "react-native-svg": "^13.7.0",
+    "react-native-tab-view": "^3.3.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
