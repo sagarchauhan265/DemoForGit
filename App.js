@@ -6,6 +6,12 @@ export default function App() {
 
 
   return (
+<<<<<<< HEAD
     <QrCode />
+=======
+    <View>
+      <Text>hello world!</Text>
+    </View>
+>>>>>>> 9a0eff0bff8c432f1d5b465c50010b7e7ec39c63
   )
 }
